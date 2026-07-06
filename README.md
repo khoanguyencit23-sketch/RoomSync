@@ -34,4 +34,4 @@ RoomieSync is a shared living space management application designed for student 
 
 ## Documentation
 * **Product Vision & Personas:** Refer to our project documentation for detailed user profiles (Room Leader & Roommate) and user scenarios.
-* **Task Management:** [Insert your Trello Board Link here]
+* **Task Management:** https://trello.com/b/D8V45Zo4/roomsync
